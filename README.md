@@ -12,6 +12,9 @@ This is a fun kata that has the programmer building simple combat rules, as for 
 
 2. It's recommended you perform this kata with a pairing partner and while writing tests.
 
+## Useful commands ##
+- npm install
+- npm test
 ## Iteration One ##
 
 1. All Characters, when created, have:
